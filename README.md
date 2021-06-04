@@ -1,3 +1,5 @@
+# :rotating_light: NOTE : THIS REPOSITORY IS NOW NO LONGER DEVELOPED/MAINTAINED. PLEASE CHECK OUT [THIS](https://github.com/Pneumonia-Detection-using-EdgeML/pneumonia-detection-edgeml-other-libs) REPOSITORY FOR ALL RECENT CHANGES.
+
 # Pneumonia Detection using EdgeML
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
